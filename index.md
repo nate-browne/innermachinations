@@ -1,6 +1,15 @@
-## Latest Post
+---
+title: Inner Machinations
+layout: default
+---
+{%- if site.posts.size > 0 -%}
+  <ul>
+    {%- for post in site.posts -%}
+    <li>
+      {%- assign date_format = "%Y-%m-%d" -%}
+      [ {{ post.date | date: date_format }} ] <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+    </li>
+    {%- endfor -%}
+  </ul>
+{%- endif -%}
 
-[Software Engineering != CS](https://nate-browne.github.io/innermachinations/cs/2019/07/14/Computer-Science-Software-Engineering.html)
-
-## All Posts
-[Software Engineering != CS](https://nate-browne.github.io/innermachinations/cs/2019/07/14/Computer-Science-Software-Engineering.html)
