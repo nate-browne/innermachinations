@@ -13,6 +13,14 @@
     <link rel="mask-icon" href="/favicons/safari-pinned-tab.svg" color="#5bbad5">
 
 {% seo %}
+  <style>
+    .footer {
+      display: table;
+      text-align: center;
+      margin-left: auto;
+      margin-right: auto;
+    }
+  </style>
   </head>
 
   <body>
@@ -36,8 +44,8 @@
         {{ content }}
       </section>
     </div>
-    <footer>
-      Copyright &copy; Nate Browne, 2019 <a href="/innermachinations">Back to Home</a>
+    <footer class="footer">
+      Copyright &copy; Nate Browne, 2019 &middot; <a href="/innermachinations">Back to Home</a> &middot; <a href="https://nate-browne.github.io">Main Site</a>
     </footer>
 
     {% if site.google_analytics %}
