@@ -1,1 +1,9 @@
 theme: jekyll-theme-hacker
+title: Inner Machinations
+description: My place for writing about things I find interesting.
+plugins:
+  - jekyll-relative-links
+  - jekyll-seo-tag
+relative_links:
+  enabled: true
+  collections: true
