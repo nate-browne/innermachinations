@@ -10,7 +10,8 @@ tags: CS, software-engineering
 <br>
 > [Computer science] is not really about computers - and it's not about computers in the same sense that physics is not really about particle accelerators, and biology is not about microscopes and Petri dishes…and geometry isn't really about using surveying instruments. Now the reason that we think computer science is about computers is pretty much the same reason that the Egyptians thought geometry was about surveying instruments: when some field is just getting started and you don't really understand it very well, it's very easy to confuse the essence of what you're doing with the tools that you use."
 *- Hal Abelson, Professor of Computer Science at MIT*
-<br>
+
+<br><br>
 *Firstly, I want to offer a disclaimer. This article is not indicative of everyone who is majoring in CS, It's simply an observation, not a full on case study. It is also my opinion, not gospel. Take it with a grain of salt. Also, I acknowledge that there are indeed schools with majors in software engineering (like [Cal Poly](https://csc.calpoly.edu/)), so this article doesn't apply to those programs*
 <br>
 
