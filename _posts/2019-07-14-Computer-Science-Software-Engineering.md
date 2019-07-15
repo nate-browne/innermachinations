@@ -4,8 +4,6 @@ title: "Computer Science != Software Engineering"
 date: 2019-07-14 10:26 -0700
 categories: CS
 ---
-# Computer Science != Software Engineering
-### The important distinction that all computer science students and hopefuls should know
 <br>
 *This story was originally published on my Medium account (which I've since stopped using)*
 <br>
@@ -57,4 +55,4 @@ Why study computer science? Why care about the theory behind it all? Why learn a
 *Special thanks to my friend Beth for helping me edit this opinion piece, to Owen for having the conversation that helped to inspire this essay, to Daniel and Evan for bringing up a point that I had missed initially, and to Geoffrey for the proof transcription. You all are great!*
 <br>
 
-[Go back](/)
+[Go back](/innermachinations)
