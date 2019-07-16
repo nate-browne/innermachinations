@@ -3,7 +3,7 @@ layout: post
 title: "Computer Science != Software Engineering"
 date: 2019-07-14 10:26 -0700
 categories: CS
-tags: CS, software-engineering
+tags: CS software-engineering
 ---
 <br>
 *This story was originally published on my Medium account (which I've since stopped using)*
