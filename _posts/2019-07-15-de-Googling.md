@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "de-Googling"
-date: 2019-07-15 20:00 -0700
+date: 2019-07-15 12:00 -0700
 categories: CS
 tags: CS privacy security
 ---
