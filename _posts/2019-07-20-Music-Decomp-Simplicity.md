@@ -11,11 +11,11 @@ tags: music music-theory music-analysis decomposition
 
 This is part 1 of a 7 part series in which I'll be introducing one of my favorite things to do: musical analysis.
 <br><br>
-For those of you who don't know me well, you may think that this seems a bit out of nowhere. Music has always been one of my first interests (I started playing piano at the age of 3) and for a (very, very brief) while was a thing I was considering pursuing professionally. It's a hobby for me now, but one that I still enjoy quite a bit. Throughout this series, I'm gonna try to shed some light as to what I hear when I listen to music, as well as how I go about breaking it down to appreciate it even more.
+For those of you who don't know me well, you may think that this seems a bit out of nowhere. Music has always been one of my first interests (I started playing piano at the age of 3) and for a (very, very brief) while was a thing I was considering pursuing professionally. It's a hobby for me now, but one that I still enjoy quite a bit. Throughout this series, I'm gonna try to shed some light as to what I hear when I listen to music, as well as how I go about breaking it down to appreciate it even more. These posts will be fairly dense music theory wise, so if you're unfamiliar with music theory these may be difficult to read. That said, I hope you stick with me through them cause there's a lot of great music to unpack :)
 <br><br>
 Now, you're probably looking at the subtitle and thinking something along the lines of *hold on a sec, what **exactly** does "simplicity breeds filth" mean?* Well, here's the main point:
 <br><br>
-### *Sometimes, the simple things are what have the largest effects*
+### *Sometimes, the simple things are what have the largest, funkiest effects*
 <br>
 Let's first start with an example of what I **don't** mean. *As a disclaimer, I do actually enjoy this band's music, but I'm using them to illustrate a point.* [AJR](https://en.wikipedia.org/wiki/AJR_(band)), a NYC based modern alternative/indie band, is pretty renown for their large-scale, highly produced, self-described ["wall of sound"](https://invidio.us/bt4_CU1xMwk) style. But, catchy as songs like [Karma](https://invidio.us/watch?v=Vy1JwiXHwI4) or [Three-Thirty](https://invidio.us/watch?v=6gY0k0alnZ0) are, one thing that many a old head musician will point out is that "it's too processed".
 <br><br>
@@ -49,7 +49,7 @@ Back to the guitars. Cory plays a more rhythmic, backup groove which syncs up ni
 <br><br>
 Now, the melody. Joe and Mark play in unison, one octave apart, playing a riff which completely centers on the Eb blues scale and gives them both a bit of room on each end to noodle a little.
 <br><br>
-At the 1:25 mark, we reach a "bridge" of sorts. Nate plays the same beat, Joe's part simplifies to octave Ebs, and both Cory and Mark jump up the necks of their guitars to play parts that, while not unison, move in stepwise motion. This provides a bit of relief from the driving melody of before, while still maintaining the funky feel due to the harmonies between the guitars. Plus, Joe's head bobbing gets turned all the way to 11 here. Interestingly, we also can see that to build intensity, Nate starts opening the high hat more often to let it ring more, giving a slightly muddier sound than the crispness we head during the main hook and signifying to us that the crescendo we've been hearing is getting closer to a climax (though in this style, it tends to be anti-climactic).
+At the 1:25 mark, we reach a "bridge" of sorts. Nate plays the same beat, Joe's part simplifies to octave Ebs, and both Cory and Mark jump up the necks of their guitars to play parts that, while not unison, move in stepwise motion. This provides a bit of relief from the driving melody of before, while still maintaining the funky feel due to the harmonies between the guitars. Plus, Joe's head bobbing gets turned all the way to 11 here. Interestingly, we also can see that to build intensity, Nate starts opening the high hat more often to let it ring more, giving a slightly muddier sound than the crispness we head during the main hook and signifying to us that the crescendo we've been hearing is getting closer to a climax (though in this style, it tends to be anti-climax).
 <br><br>
 We get a brief release from the song's driving beat with a short Cory Wong interlude, then it's right back into the main riff full speed ahead. This time though, there's even more improvisation from Mark and Joe, leading to the the song coming full circle at around the 2:29 mark where it ends the way it started: a percussion section solo. I'd be remiss though if I didn't mention the subtle brilliance and mastery of drums exhibited by Nate Smith at around the end of the phrase that we hear at the 2:15 mark. The control he shows over his drumsticks to precisely hit the high hat in those sextuplets is, frankly, insane. Just replay that part over and over and over and over and...
 <br><br>
@@ -61,7 +61,11 @@ Like the previous song, this one also starts with a solo (this time a bass solo)
 <br><br>
 Next up, the drums. Ignoring the fact that they're being played by two people, the drums have a simple beat here. Starting with high hat, we have the pattern "1 and 2 and a 3 and 4 and a" repeating consistently (think "tap tap ta ta tap") with a snare drum hit on beats 2, the and of 3, and 4 (with ghost notes mixed in for flavor). The bass drum hits mostly beats 1 and 3 with smaller "flavor beats" thrown in to add a bit more groove, and that's really it.
 <br><br>
-Next, Cory. He plays a very syncopated guitar groove that is reminiscent of stuff played by Jeff Porcaro (the drummer for the rock band Toto). Like the rest of the band, his part is very set in stone and not flashy, but it adds another layer of sound and rhythm to an already funky base which lends more to the head bobbing.
+Next, Cory. He plays a very syncopated guitar groove that is reminiscent of stuff played by Jeff Porcaro (the drummer for the rock band Toto). Like the rest of the band, his part is very set in stone and not flashy, but it adds another layer of sound and rhythm to an already funky base layer which helps to grow the head bobbing you're inevitably doing.
+<br><br>
+<img src="https://i.giphy.com/media/hiLLD9o1wTB3a/200.gif" alt="funky duck">
+<br>
+*Vulfpeck's music tends to have this effect on people*
 <br><br>
 Lastly, the pianos. They are the focus of this piece; playing parts that have the most movement. That said though, both parts are quite simple; the wurlitzer part stays in the background compared to the piano and mostly adds emphasis to the piano's lines, while the piano plays a sequence of F blues scale style descending runs. They play off of each other in a sort of conversation that lasts the entire tune, save for the clap breakdown that happens around the 1:10 mark and for the guitar breakdown at around 1:59.
 <br><br>
