@@ -24,7 +24,7 @@ I decided to do some digging, and sure enough, the scandals began to flow. Notab
 <br>
 *How I imagine I'll sound by the end of this*
 <br><br>
-The more I researched, the more disgusted and annoyed I became. It was at that point that a phrase I had heard finally clicked for me: "*If a product is free and not open-source, it is because **you** are the product instead of the consumer*". As much as Facebook and Google (and others) try to deny it, they're essentially advertising companies selling their services (read: your data) to corperations. Just stop and think about the business model of IKEA compared to Google compared to Apple compared to Workday, and this becomes painstakingly clear.
+The more I researched, the more disgusted and annoyed I became. It was at that point that a phrase I had heard finally clicked for me: "*If a product is free and not open-source, it is because **you** are the product instead of the consumer*". As much as Facebook and Google (and others) try to deny it, they're essentially advertising companies selling their services (read: your data) to corporations. Just stop and think about the business model of IKEA compared to Google compared to Apple compared to Workday, and this becomes painstakingly clear.
 <br><br>
 At this point, I had decided that I had had enough. I was gonna "de-Google". For full disclosure, it's been about half a year since I've embarked on this endeavour and I still have a long way to go, but it's certainly a start.
 <br><br>
