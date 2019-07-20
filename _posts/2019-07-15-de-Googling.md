@@ -44,7 +44,7 @@ I'll now start going through the products I've been taking myself off of and wha
 
 * **Google Docs**: Once I hook up my filehosting solution, I'll migrate from this back to [OpenOffice](https://www.openoffice.org/) or even Microsoft Word, but for now, I'm stuck here on Docs.
 
-* **Google Home/Chromecasts**: Google Home has no good replacements (Alexa is just as bad), so I've been using it less and less with plans on just removing it. Chromecast has been really useful, and with no scandals (for now), it remains a Google product I can actually endorse.
+* **Google Home/Chromecasts**: Google Home has no good replacements (Alexa is just as bad), so I've been using it less and less with plans on just removing it. Chromecast has been really useful, and with no scandals (for now), it remains a Google product I can actually endorse. Regarding scandals, Google Home has had [their fair share](https://www.independent.co.uk/life-style/gadgets-and-tech/news/google-home-smart-speaker-audio-recordings-privacy-voice-spy-a9000616.html) and honestly, the convenience of it really doesn't justify the reports.
 
 * **Android Phones**: This one saddens me; I truly believe Android OS is a superior phone operating system compared to iOS, but I am just not okay with letting Google get so much information about me via my phone. I'm sticking with iPhones solely because Apple's core business model revolves around selling overpriced, aesthetically pleasing devices instead of selling data.
 
