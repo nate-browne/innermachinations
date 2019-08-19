@@ -92,10 +92,10 @@ console.log(('b' + 'a' + + 'a' + 'a').toLowerCase());
 {% endhighlight %}
 None of the above would work in Haskell. In fact, the top will give you an error saying something like
 "<code>no instance of Num Char arising from a use of '+'</code>" or something like that.
-Quick aside though, the top would work in Java (even though it's strongly typed) because the compiler
-would change it to be `"2" + Integer.toString(3)` which typechecks out to be a `String`.
-This is nice because it means that you don't have to worry about any weird compiler tricks making your
-code not do what you think it'll do.
+This is nice because it means that you don't have to worry about any weird compiler tricks making your code not do what you think it'll do.
+(Quick aside though, the top would work in Java (even though it's strongly typed)
+because the compiler would change it to be `"2" + Integer.toString(3)` which
+typechecks out to be a `String`).
 <br><br>
 *Purely functional* means that Haskell is a language where every function is *pure*, i.e., every function has no side effects.
 What does this mean in practical terms? It means that a function like this one would __never__ exist in Haskell:
@@ -185,7 +185,16 @@ We define this in Haskell by using pattern matching, going from specific down to
 to do with an empty list (return 0). The bottom pattern says that any list that is composed of an element and the rest of the list
 (so literally every other list) has a sum defined as that element plus the result of calling `sum` on the rest of the list.
 `sum'` does the same, just using a technique known as [tail recursion](https://en.wikipedia.org/wiki/Tail_call) to allow
-the compiler to optimize. The bottom is how I'd do it if I were using library functions (though I'd probably just use the built-in
+the compiler to optimize. Doing our simple case again,
+```
+sum [1,2,3]
+=> helper [1,2,3] 0
+=> helper [2,3] 1
+=> helper [3] 3
+=> helper [] 6
+=> 6
+```
+The last one is how I'd do it if I were using library functions (though I'd probably just use the built-in
 `sum` instead...).
 <br><br>
 Two, Haskell syntax is weird, but really it looks like defining piecewise functions in math. This means that you can read through
@@ -211,7 +220,7 @@ def is_prime(val: int) -> bool:
   return True
 
 def prime_list(lo: int, hi: int) -> List[int]:
-  return [x for x in range(lo, hi + 1) if self.is_prime(x)]
+  return [x for x in range(lo, hi + 1) if is_prime(x)]
 
 def get_goldbach(val: int) -> None:
   if val >= 4 and val % 2 == 0:
