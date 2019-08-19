@@ -2,7 +2,8 @@
 layout: post
 title: "Better CS"
 date: 2019-8-19 12:00 -0700
-categories: programming-languages CS education
+categories: CS
+tags: programming-languages education
 ---
 
 ## Getting Started with Functional Programming
