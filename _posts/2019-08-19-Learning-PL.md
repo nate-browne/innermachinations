@@ -81,7 +81,7 @@ The alternative to this is *dynamic typing*/*duck typing*, used by languages lik
 This basically means that the interpreter doesn't typecheck and tries hard to make your expression work, and it throws a `TypeError`
 if what you give it *truly* doesn't make sense. This is accomplished via a mechanism that I don't really feel like explaining, so
 you can [read about it here](https://www.quora.com/What-is-Pythons-type-system) if you wanna know. It basically boils down to everything being an object in Python.
-The reason this is nice is that you know *exactly* how everything will work ahead of time. No more "wait what does this function return?"
+The reason this property is nice is because you know *exactly* how everything will work ahead of time. No more "wait what does this function return?"
 since you know exactly what type to expect back from it.
 <br><br>
 *Strongly typed* means that you don't get any type coercion. Languages like JavaScript (weakly typed) allow you to do stuff like this:
@@ -122,6 +122,7 @@ Here's a question: How would you sum up the values of a list of integers? Someth
 would be approached in C++:
 {% highlight c++ %}
 #include <vector>
+#include <iostream>
 
 using std::vector;
 using std::cout;
