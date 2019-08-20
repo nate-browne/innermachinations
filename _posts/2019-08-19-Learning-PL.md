@@ -50,7 +50,8 @@ public class Hello {
 {% endhighlight %}
 <sup>I know that this is overkill and we only really need `main`, this is just an example for the sake of argument.</sup>
 Note the class syntax which defines the module, and how `sayHello` can only be used in context of the class. Object-oriented
-is commonly used in industry, where grouping things according into units seems "logical" (though this is contested, we'll revist this).
+is commonly used in industry, where grouping things according into units seems
+"logical" (though this is contested, [this explains why better than I would](https://steve-yegge.blogspot.com/2006/03/execution-in-kingdom-of-nouns.html)).
 <br><br>
 Next up, we'll do it in Python to demonstrate procedural programming.
 {% highlight python %}
@@ -112,7 +113,7 @@ The above function has two side effects; namely, it prints something to the scre
 The fact that Haskell doesn't do this means that you don't have as much to worry about when you're reading it;
 what you see is exactly what you get in terms of each function.
 <br><br>
-*This is nice, but why do I care? Why should I care about functional programming? Imperative works just fine.* 
+*This is nice, but why do I care? Imperative programming works just fine.* 
 The reason you should care is because learning how to code in a functional paradigm *will* improve your code that you
 write in __all__ contexts. It'll help you understand stuff ranging from lambdas in Python to callbacks and promises
 in JavaScript. You'll learn a new way of approaching problems. It'll help with learning languages like Rust.
@@ -151,7 +152,7 @@ int main(void) {
 {% endhighlight %}
 And here's three different versions in Haskell:
 {% highlight haskell %}
-import Prelude hiding (sum, reverse)
+import Prelude hiding (sum)
 import Data.List (foldl')
 
 -- Standard way
@@ -214,7 +215,7 @@ that sum up to our target. Let's get crackin.
 from typing import List
 
 def is_prime(val: int) -> bool:
-  if val == 1: # special case, 1 isn't prime
+  if val <= 1: # special case, numbers < 2 can't be prime
     return False
   for num in range(2, val - 1):
     if val % num == 0:
@@ -258,14 +259,14 @@ def get_goldbach(val: int) -> None:
         break
 {% endhighlight %}
 Phew, that was hefty. Upon closer look, it's not really that complex, but it is definitely messy.
-All of the impure functions everywhere make this Python, though readable, more complex than necessary.
-Let's look at the same exact thing in Haskell, now:
+Surprisingly, though, this python is extremely close to the equivalent version
+in Haskell. Let's take a look at that, now:
 {% highlight haskell %}
 prime :: Int -> Bool
 prime val = (length [x | x <- [2..val], val `mod` x == 0]) == 1
 
 primeList :: Int -> [Int]
-primeList val = [x | x <- [2..val], prime x]
+primeList val = filter prime [2..val]
 
 goldbach :: Int -> IO()
 goldbach val
@@ -282,7 +283,8 @@ goldbach val
             hi = last lst
       helper _ _ = error "This is unreachable but the compiler won't shut up"
 {% endhighlight %}
-Now, isn't that cleaner? I'm making use of Haskell's version of list comprehensions (they sort of look like the Python ones),
+Now, isn't that cleaner? I'm making use of Haskell's version of list
+comprehensions (they sort of look like the Python ones), higher order functions,
 as well as Haskell stuff like `where` blocks, pattern matching, the `$` operator, list concatenation (the `++`), but nothing
 here is really that unreadable if you know what the symbols mean. All of that clean goodness is possible because of the
 magic of functional programming.<br>
