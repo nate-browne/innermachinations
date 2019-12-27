@@ -46,7 +46,7 @@ can be applicable to you in your own endeavors; just do a bit of extrapolation:
    to the surprisingly hard part of pruning information out books and resources to make lecture notes to writing assignments/write ups
    came with their own set of surprises.
    <br><br>
-   One thing that I struggled with was gaguing the difficulty of the assignments. Since I was the one writing them,
+   One thing that I struggled with was gauging the difficulty of the assignments. Since I was the one writing them,
    things that seemed trivially easy to me may end up being much harder to someone taking the class, especially since
    most students at UCSD would take this class as their second or third CS course. Writing writeups was a similar ordeal,
    since they involve balancing the fine line between giving away too much and being completely useless.
