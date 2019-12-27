@@ -49,7 +49,10 @@ can be applicable to you in your own endeavors; just do a bit of extrapolation:
    One thing that I struggled with was gauging the difficulty of the assignments. Since I was the one writing them,
    things that seemed trivially easy to me may end up being much harder to someone taking the class, especially since
    most students at UCSD would take this class as their second or third CS course. Writing writeups was a similar ordeal,
-   since they involve balancing the fine line between giving away too much and being completely useless.
+   since they involve balancing the fine line between giving away too much and
+   being completely useless. If you have the chance, go give your instructors a
+   hand shake, maybe a hug even. It's a thankless job, and they deserve some
+   appreciation.
    <br><br>
    In the end, I tried adopting a model of making things get progressively harder as the course goes along, which leads to...
 
@@ -67,10 +70,14 @@ can be applicable to you in your own endeavors; just do a bit of extrapolation:
    as an AVL tree, but the original plans involved also implementing a red-black tree. I thought it'd be doable; they just had
    to use the resources given to them.
    <br><br>
-   Upon discussing this with a friend, she helped me to realize that no, a red-black tree implementation for a bunch of very beginner CS students wasn't just impractical, it was pretty cruel to expect. I didn't want to admit it at first, but with this direct
-   and honest feedback, the assignment was trimmed down into what it is now.
+   Upon discussing this with a friend, she helped me to realize that no, a
+   red-black tree implementation for a bunch of very beginner CS students wasn't
+   just impractical, it was pretty cruel to expect. I didn't want to admit it at
+   first, but she was 100% spot on with that observation. With this direct
+   and honest feedback, the assignment was trimmed down into what it is now; a
+   difficult (but manageable I think) assignment.
    <br><br>
-  
+
 4. __I understand why teachers tend not to modify courses too much__.
 
    No smooth transition into this point, sorry. I remember realizing in a lot of my courses that the material
