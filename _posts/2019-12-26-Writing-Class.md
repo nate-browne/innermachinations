@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Better CS"
+title: "Better CS - 2"
 date: 2019-12-26 12:00 -0700
 categories: CS
 tags: education teaching

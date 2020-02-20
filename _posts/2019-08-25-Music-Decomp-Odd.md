@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Music Analysis and Decomposition"
+title: "Music Analysis and Decomposition - 2"
 date: 2019-8-24 12:00 -0700
 categories: Music
 tags: music music-theory music-analysis decomposition
@@ -104,6 +104,7 @@ If you like what you've heard, here are some more in a similar style:
 * [*Pinzin Kinzin*](https://invidio.us/watch?v=D6KYbpDditU) by the Avishai Cohen Trio. Technically, this one is 4/4, but it's subdivided
   into 32 16th notes (stretching over 2 measures) following a 4 + 5 + 4 + 5 + 4 + 5 + 5 pattern. Super sick.
 * [*Take Five*](https://invidio.us/watch?v=vmDDOFXSgAs) by the Dave Brubeck Quartet. A classic 5/4 piece that you've probably heard.
+* [*Sleigh Ride*](https://www.invidio.us/watch?v=-ZggJNsAuIw) by John Eidsvoog. A classic Christmas song reimagined.
 <br><br>
 *Next time, we'll break down the second piece to the language of music: how chords work.*
 

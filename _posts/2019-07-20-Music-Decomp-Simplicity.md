@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Music Analysis and Decomposition"
+title: "Music Analysis and Decomposition - 1"
 date: 2019-7-20 12:00 -0700
 categories: Music
 tags: music music-theory music-analysis decomposition
