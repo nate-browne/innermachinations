@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: "Kindness vs Niceness"
 date: 2019-7-28 12:00 -0700
 categories: misc

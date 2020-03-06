@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: "Music Analysis and Decomposition - 2"
 date: 2019-8-24 12:00 -0700
 categories: Music

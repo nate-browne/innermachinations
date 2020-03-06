@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: "Better CS - 1"
 date: 2019-8-19 12:00 -0700
 categories: CS

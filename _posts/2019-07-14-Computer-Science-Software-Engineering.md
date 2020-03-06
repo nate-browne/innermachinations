@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: "Computer Science != Software Engineering"
 date: 2019-07-14 10:26 -0700
 categories: CS

@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: "de-Googling"
 date: 2019-07-15 12:00 -0700
 categories: CS
