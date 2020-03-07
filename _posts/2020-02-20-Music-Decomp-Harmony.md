@@ -12,8 +12,8 @@ tags: music music-theory music-analysis decomposition
 
 This is part 3 of a 7 part series on musical analysis and decomposition! It's been a while, but it's back.
 <br><br>
-<a href="innermachinations/music/2019/08/24/Music-Decomp-Odd.html" target="_blank">Last time</a>, we talked about
-the effects of time signatures on music and how they play into the creation of pieces themselves. This time,
+<a href="https://nate-browne.github.io/innermachinations/music/2019/08/24/Music-Decomp-Odd.html" target="_blank">Last time</a>,
+we talked about the effects of time signatures on music and how they play into the creation of pieces themselves. This time,
 we're gonna discuss one of the fundamental building blocks of musical terminology: harmony.
 <br><br>
 To begin, we should first give a rudimentary definition of harmony so that we're all on the same page. Simply put,
@@ -80,9 +80,9 @@ music nerds would get bored. So, we're gonna analyze the part starting from 1:11
 riff at that point is **soooooo** much more satifying after hearing the intro).
 <br><br>
 This song, in Bb major, has a ridiculously simple melody line. It just starts at the tonic note, walks up to the III, jumps to the leading tone VII, then works its way back down the scale with the only spicy change being that on the way back down the III is flattened by a half step. For those who perfer note names, it is this:
-<br>
+<br><br>
 Bb -> C -> D -> A -> G -> F -> Eb -> Db -> C -> Bb
-<br>
+<br><br>
 This entire thing could be played over a droning tonic Bb, but that would not be very cash money of Snarky Puppy to do so. Instead, the song
 opts for a progression that starts on a Bbmaj7add2 (tonic), down to a Gm7 (submediant), down a half step to a Gbmaj7add2 (technically the dominant I guess.. not really though. Anyone know what to call this?) followed by a Db2 (mediant) and an Ebmaj7add2 (the subdominant) to get us back to the Bbmaj7add2. This is the main meat of the progression, and it gets repeated at multiple points throughout the song in different
 keys (like at 2:39, 3:45 (with slight variations this time), 4:05, 4:27, 4:48... you get the point. Shaun Martin launches into a *filthy* Moog solo during one of the repeats though ooh boi it is tasty.)
@@ -90,7 +90,7 @@ keys (like at 2:39, 3:45 (with slight variations this time), 4:05, 4:27, 4:48...
 Anyway, the moral of the story is this: no matter how cool your melody may be, backing it up with some crunchy harmony is a surefire
 way to turn your song from "alright" to a borderline jam. But that's not the entire story; most music isn't just random notes but instead
 has a sort of structure, and we'll be looking at how that structure affects how we listen to different genres of music.
-<br>
+<br><br>
 If you really like this stuff, check out <a href="https://www.invidio.us/channel/havic5" target="_blank">Adam Neely</a>, he posts
 a lot of videos explaining music theory in general (and harmony in specific)!
 
