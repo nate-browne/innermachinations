@@ -100,7 +100,7 @@ a lot of videos explaining music theory in general (and harmony in specific)!
 If you like what you've heard, here are some more:
 * [*In the Bleak Midwinter*](https://invidio.us/watch?v=7-nRv0uQvH0) by Jacob Collier.
 * [*Moon River*](https://www.invidio.us/watch?v=KhyyjRcrn84) by Jacob Collier.
-* [*Moon River*](https://invidio.us/watch?v=7h3rTNai9W0) by Voctave. Note how the differences in
+* [*Moon River*](https://youtube.com/watch?v=7h3rTNai9W0) by Voctave. Note how the differences in
   harmonic influence lead this version to sound totally different than Jacob's, even though it's the some song!
 
 <br><br>
