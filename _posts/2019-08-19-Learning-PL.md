@@ -236,8 +236,7 @@ def get_goldbach(val: int) -> None:
       hi = primes[top]
       res = lo + hi
       if res == val:
-        to_print = repr(val) + ' = ' + repr(lo) + ' + ' + repr(hi)
-        print(to_print)
+        print(f'{val} = {lo} + {hi}')
         return
       elif res > val:
         hi -= 1
